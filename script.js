@@ -12,8 +12,9 @@ const cat = {
 };
 
 const human = {
-    
-}
-
+  name: "John",
+};
+human.say = cat.may;
+human.say();
 dog.gav();
 cat.may();
