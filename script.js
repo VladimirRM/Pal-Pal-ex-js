@@ -7,3 +7,8 @@
 
 // user.sayHello();
 // const f = user.sayHello.bind(user);
+
+// const button = document.querySelector("button");
+// button.addEventListener("click", function () {
+//   this.textContent = "del";
+// });
